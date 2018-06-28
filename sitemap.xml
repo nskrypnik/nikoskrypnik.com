@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://nikoskrypnik.com/</loc>
+  <lastmod>2018-06-28T23:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/archive.html</loc>
+  <lastmod>2018-06-28T23:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/categories/</loc>
+  <lastmod>2018-06-28T23:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/galleries/</loc>
+  <lastmod>2018-06-28T23:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/listings/</loc>
+  <lastmod>2018-06-28T23:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/pages/about-niko/</loc>
+  <lastmod>2018-06-28T23:30:00Z</lastmod>
+ </url>
+</urlset>
