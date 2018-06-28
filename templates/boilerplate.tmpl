@@ -1,0 +1,20 @@
+## -*- coding: utf-8 -*-
+<%namespace name="helper" file="post_helper.tmpl"/>
+<%namespace name="pheader" file="post_header.tmpl"/>
+<%namespace name="comments" file="comments_helper.tmpl"/>
+<%inherit file="post.tmpl"/>
+
+<%block name="extra_head">
+    ${parent.extra_head()}
+    <!-- Styles and links go here -->
+</%block>
+
+<%block name="content">
+  <!-- this section has to have to of this calls -->
+  ${post.title()}
+  ${post.text()}
+</%block>
+
+<%block name="extra_js">
+    <!-- just insert extra-js here if needed -->
+</%block>
