@@ -136,6 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home', 'fa fa-home'),
         ('/pages/about-niko/index.html', 'About me', 'fa fa-user'),
+        ('/pages/about-blog/index.html', 'About this blog', 'fas fa-info-circle'),
         ('/archive.html', 'Archives', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
