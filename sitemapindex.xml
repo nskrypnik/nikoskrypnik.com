@@ -6,15 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://nikoskrypnik.com/categories/about-nothing.xml</loc>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nikoskrypnik.com/categories/futurism.xml</loc>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nikoskrypnik.com/categories/low-level.xml</loc>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://nikoskrypnik.com/galleries/rss.xml</loc>
-  <lastmod>2018-07-01T07:27:00Z</lastmod>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nikoskrypnik.com/rss.xml</loc>
-  <lastmod>2018-06-28T23:30:00Z</lastmod>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nikoskrypnik.com/sitemap.xml</loc>
-  <lastmod>2018-07-01T07:27:00Z</lastmod>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
  </sitemap>
 </sitemapindex>

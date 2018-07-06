@@ -7,15 +7,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nikoskrypnik.com/</loc>
-  <lastmod>2018-07-01T02:42:00Z</lastmod>
+  <lastmod>2018-07-06T05:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/2018/</loc>
+  <lastmod>2018-07-06T05:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://nikoskrypnik.com/archive.html</loc>
-  <lastmod>2018-07-01T07:27:00Z</lastmod>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://nikoskrypnik.com/categories/</loc>
-  <lastmod>2018-06-28T23:30:00Z</lastmod>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/categories/about-nothing/</loc>
+  <lastmod>2018-07-06T05:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/categories/futurism/</loc>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/categories/low-level/</loc>
+  <lastmod>2018-07-06T06:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://nikoskrypnik.com/galleries/</loc>
@@ -28,5 +44,9 @@
  <url>
   <loc>https://nikoskrypnik.com/pages/about-niko/</loc>
   <lastmod>2018-06-28T23:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nikoskrypnik.com/posts/cpu-stagnation/</loc>
+  <lastmod>2018-07-06T05:33:00Z</lastmod>
  </url>
 </urlset>
