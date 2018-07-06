@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Niko Skrypnik's Fantasies (Posts about about nothing)</title><link>https://nikoskrypnik.com/</link><description></description><atom:link href="https://nikoskrypnik.com/categories/about-nothing.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:nskrypnik@gmail.com"&gt;Niko Skrypnik&lt;/a&gt; </copyright><lastBuildDate>Fri, 06 Jul 2018 06:32:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Computational Stagnation in the Second Decade of 21st Century</title><link>https://nikoskrypnik.com/posts/cpu-stagnation/</link><dc:creator>Niko Skrypnik</dc:creator><description>&lt;figure align="center" style="padding: 10px"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Niko Skrypnik's Fantasies (Posts about about nothing)</title><link>https://nikoskrypnik.com/</link><description></description><atom:link href="https://nikoskrypnik.com/categories/about-nothing.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:nskrypnik@gmail.com"&gt;Niko Skrypnik&lt;/a&gt; </copyright><lastBuildDate>Fri, 06 Jul 2018 06:46:15 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Computational Stagnation in the Second Decade of 21st Century</title><link>https://nikoskrypnik.com/posts/cpu-stagnation/</link><dc:creator>Niko Skrypnik</dc:creator><description>&lt;figure align="center" style="padding: 10px"&gt;
   &lt;img src="https://nikoskrypnik.com/images/evolution.png" align="center" width="450/"&gt;
 &lt;/figure&gt;
 
@@ -24,7 +24,7 @@ two times each year and we could afford luxury of rapid development and neglect 
 &lt;p&gt;
   &lt;img src="https://nikoskrypnik.com/images/Gordon_Moore.jpg" style="margin-left: 10px; margin-top: 10px;" align="right"&gt;
 But then all the sudden (well not all the sudden really) Moore's law stopped to work. Actually it wasn't a law like law
-of physics but just a observation of dynamic of development in micro-chip industry by one guy named Moore's. Don't know
+of physics but just a observation of dynamic of development in micro-chip industry by one guy named Moore. Don't know
 why it was called a law as it is rather just a phenomena. A guy (Moore) put some data on chart and saw that it goes
 exponentially. So he guessed that it will continue to do so in future and was partially right. But if you're familiar
 with physics you may know that there're a lot of phenomenons and systems which have dynamic described by exponential curves
@@ -45,7 +45,7 @@ and very likely that it will shape entire industry for next decade.
 &lt;/figure&gt;
 
 &lt;p&gt;
-So welcome to the era of computational stagnation! We're still able to buy more CPUs and RAM, but now we now that our
+So welcome to the era of computational stagnation! We're still able to buy more CPUs and RAM, but now we know that our
 performance won't increase magically in 2x factor only by buying new equipment in future. Simply because we hit limitation
 of computational technologies we've been using since seventies when Moore first observed his phenomena. Well, it's
 definitelly not a reason for pessimism. For centuries we lived without computer at all and managed to survive. But this
