@@ -20,10 +20,10 @@ BLOG_AUTHOR = "Niko Skrypnik"  # (translatable)
 BLOG_TITLE = "Niko Skrypnik's Fantasies"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://nikoskrypnik.com/"
+SITE_URL = "http://nikoskrypnik.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://nikoskrypnik.com/"
+# BASE_URL = "http://nikoskrypnik.com/"
 BLOG_EMAIL = "nskrypnik@gmail.com"
 BLOG_DESCRIPTION = "Welcome to Niko Skrypnik's fantasies"  # (translatable)
 
