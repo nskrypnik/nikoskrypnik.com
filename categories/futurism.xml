@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Niko Skrypnik's Fantasies (Posts about futurism)</title><link>https://nikoskrypnik.com/</link><description></description><atom:link href="https://nikoskrypnik.com/categories/futurism.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:nskrypnik@gmail.com"&gt;Niko Skrypnik&lt;/a&gt; </copyright><lastBuildDate>Thu, 12 Jul 2018 22:21:18 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Computational Stagnation in the Second Decade of 21st Century</title><link>https://nikoskrypnik.com/posts/cpu-stagnation/</link><dc:creator>Niko Skrypnik</dc:creator><description>&lt;figure align="center" style="padding: 10px"&gt;
-  &lt;img src="https://nikoskrypnik.com/images/evolution.png" align="center" width="450/"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Niko Skrypnik's Fantasies (Posts about futurism)</title><link>http://nikoskrypnik.com/</link><description></description><atom:link href="http://nikoskrypnik.com/categories/futurism.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:nskrypnik@gmail.com"&gt;Niko Skrypnik&lt;/a&gt; </copyright><lastBuildDate>Thu, 12 Jul 2018 22:25:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Computational Stagnation in the Second Decade of 21st Century</title><link>http://nikoskrypnik.com/posts/cpu-stagnation/</link><dc:creator>Niko Skrypnik</dc:creator><description>&lt;figure align="center" style="padding: 10px"&gt;
+  &lt;img src="http://nikoskrypnik.com/images/evolution.png" align="center" width="450/"&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;
@@ -23,7 +23,7 @@ two times each year and we could afford luxury of rapid development and neglect 
 
 &lt;p&gt;
   &lt;figure style="margin-left: 10px; margin-top: 10px; float: right"&gt;
-    &lt;img src="https://nikoskrypnik.com/images/Gordon_Moore.jpg"&gt;
+    &lt;img src="http://nikoskrypnik.com/images/Gordon_Moore.jpg"&gt;
     &lt;figcaption style="padding: 10px; font-size: 80%" align="center"&gt;This is the guy&lt;/figcaption&gt;
   &lt;/figure&gt;
 
@@ -41,8 +41,8 @@ and very likely that it will shape entire industry for next decade.
 &lt;/p&gt;
 
 &lt;figure style="margin: 10px 0;"&gt;
-  &lt;img src="https://nikoskrypnik.com/images/mooreslaw.png" width="440/"&gt;
-  &lt;img src="https://nikoskrypnik.com/images/charging.png" width="450/"&gt;
+  &lt;img src="http://nikoskrypnik.com/images/mooreslaw.png" width="440/"&gt;
+  &lt;img src="http://nikoskrypnik.com/images/charging.png" width="450/"&gt;
   &lt;figcaption style="padding: 10px; font-size: 80%"&gt;
     Comparation of Moore's Law graph and ordinary physical process is suggesting us that anythings come to the end
   &lt;/figcaption&gt;
@@ -71,7 +71,7 @@ about what I'm talking about. Cause you may see it, speculate about it and may b
 &lt;/p&gt;
 
 &lt;figure style="margin: 10px 0;" align="center"&gt;
-  &lt;img src="https://nikoskrypnik.com/images/3d-server-on-chip.png" align="center"&gt;
+  &lt;img src="http://nikoskrypnik.com/images/3d-server-on-chip.png" align="center"&gt;
   &lt;figcaption style="padding: 10px; font-size: 80%"&gt;
     Concept of entire server on 3D chip
   &lt;/figcaption&gt;
@@ -88,4 +88,4 @@ structures but not on one layer plate. As entire thing likely to burn itself if 
 we'll very likely to see emerging of optical transistors and other alternatives. So we're about to see a lot of wonders
 in miracles in IT industry in next two decades. So stay tuned and keep dreaming about shiny future with ultra-realistic
 3D porn games for you VR.
-&lt;/p&gt;</description><category>about nothing</category><category>futurism</category><category>low level</category><guid>https://nikoskrypnik.com/posts/cpu-stagnation/</guid><pubDate>Thu, 05 Jul 2018 18:22:19 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;</description><category>about nothing</category><category>futurism</category><category>low level</category><guid>http://nikoskrypnik.com/posts/cpu-stagnation/</guid><pubDate>Thu, 05 Jul 2018 18:22:19 GMT</pubDate></item></channel></rss>

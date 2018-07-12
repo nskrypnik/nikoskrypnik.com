@@ -6,51 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://nikoskrypnik.com/</loc>
+  <loc>http://nikoskrypnik.com/</loc>
   <lastmod>2018-07-06T06:38:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/2018/</loc>
+  <loc>http://nikoskrypnik.com/2018/</loc>
   <lastmod>2018-07-06T05:33:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/archive.html</loc>
-  <lastmod>2018-07-10T00:07:00Z</lastmod>
+  <loc>http://nikoskrypnik.com/archive.html</loc>
+  <lastmod>2018-07-12T22:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/categories/</loc>
+  <loc>http://nikoskrypnik.com/categories/</loc>
   <lastmod>2018-07-06T06:31:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/categories/about-nothing/</loc>
+  <loc>http://nikoskrypnik.com/categories/about-nothing/</loc>
   <lastmod>2018-07-06T05:33:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/categories/futurism/</loc>
+  <loc>http://nikoskrypnik.com/categories/futurism/</loc>
   <lastmod>2018-07-06T06:31:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/categories/low-level/</loc>
+  <loc>http://nikoskrypnik.com/categories/low-level/</loc>
   <lastmod>2018-07-06T06:31:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/galleries/</loc>
+  <loc>http://nikoskrypnik.com/galleries/</loc>
   <lastmod>2018-06-28T23:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/listings/</loc>
+  <loc>http://nikoskrypnik.com/listings/</loc>
   <lastmod>2018-06-28T23:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/pages/about-niko/</loc>
+  <loc>http://nikoskrypnik.com/pages/about-niko/</loc>
   <lastmod>2018-06-28T23:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nikoskrypnik.com/posts/Software%20engineering%20is%20very%20dynamic%20environment.%20Technologies%20are%20changing%20drastically%20every%20decade.%20Twenty%20years%20ago/</loc>
-  <lastmod>2018-07-12T22:05:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nikoskrypnik.com/posts/cpu-stagnation/</loc>
+  <loc>http://nikoskrypnik.com/posts/cpu-stagnation/</loc>
   <lastmod>2018-07-12T22:21:00Z</lastmod>
  </url>
 </urlset>

@@ -1,4 +1,4 @@
-Sitemap: https://nikoskrypnik.com/sitemapindex.xml
+Sitemap: http://nikoskrypnik.com/sitemapindex.xml
 
 User-Agent: *
 Host: nikoskrypnik.com
